@@ -12,5 +12,5 @@ l8r1o2d16r16>d16r16<d16r16>d16r16<d16r16>d16r16<d16r16n38d16r16>c+16r16c+16r16<c
 ```
 part 3  
 ```
-r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r2r.o1e8r8>c8cr8a8ar1r1r1r2.n18r1r1r1>f+g8f+dr8<e1a1f+1a1e1a+1e2e2aaa8a8a16a16a32a32a32a32>ab>c+d8<aa8b>c+dc-c+de8f+&f+8.r16e16d16c+2o1g2a2f+2b2r8o3g8.f+8.g8.a8.b8br8o1a8a8a8ro3ab>c+d8<aa8b>c+dc-c+de8f+f+8r8f+8f+8e8d8c+8
+r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r2r.o1e8r8>c8cr8a8ar1r1r1r2.n18r1r1r1>f+g8f+dr8<e1a1f+1a1e1a+1e2e2aaa8a8a16a16a32a32a32a32>ab>c+d8<aa8b>c+dc-c+de8f+&f+8.r16e16d16c+2o1g2a2f+2b2r8o3g8.f+8.g8.a8.b8br8o1a8a8a8ro3ab>c+d8<aa8b>c+dc-c+de8f+o2f+8r8f+8f+8e8d8c+8
 ```
