@@ -3,3 +3,7 @@
 https://mabinogimobile.nexon.co.jp/media/music  
 
 ## Code
+part 1  
+`
+t140l16f+1f+1f+1g+8.g+8.g+8r4<ab>edc+4.c+cc+8f+8g+8a8g+4.&g+32g+32ae4<a8.>e32f32f+4.<bab8>c+8d8e8d4.c+c-c+4.r8d4.c+c-c+8f+8g+8b8a4g+32a32g+8.f+8.rf+8g+8a4.c+32d.d8e8f+8g+8a4.g+f+g+4.r8c+2.<a8b8>c+2e4&erc+ef+4.ef+<a4b4>d4.c+c-c+4.r8c-4.c+dc-4.c+ef+4&f+rf+g+a4f+4g+4.f+.g32g+8.a8.b.>c32c+4&c+r<bag+4.f+g+a2.r8g+f+g+4>c+4<g+4c+8.ef+4&f+rf+g+a4g+8.b32>c32c+2&c+8r8<a8.b>c+4&c+r<bab4a8.rb4&brag+a4e4f+8.g+8.a8b8.a8.e8g+8r8g+4a4b4>c+2.&c+r<bab2.g+8a8b2.&b8r8b2a+4.r8d8r4e8r4f+8r4g+8r4a4b4a4.g+f+g+4.r8b4.a+g+a+4.r8>c+4&c+.r32c+c-c+8f+8g+8a8g+4&g+.r32g+ae4c-8.e32f32f+4.<ba+b8>c+8d8e8d4&d.r32c+c-c+4.r8d4.c+c-c+8f+8g+8b8a4g+32a32g+8.f+8.rf+8g+8a4.c+dd8e8f+8g+8a4.g+f+g+4.e32r32e32r32e4&e.r32ede8a8b8b+8b4&b.r32bb+g4d8.g32g+32a4.dc+d8e8f8g8f4&f.r32ede4.r8f4.ede8a8b8>d8c4<b32b+32b8.a8.ra8b8b+4.eff8g8a8b8b+4.bab4&brabb+4.fef4&frfab4.ede4&erdef4&f.r32ede4g4a4b4>c4d4c4.<fef4&frfab4&b.r32b>de4.r8<d2&d8r8a8b8b+4.bab2<a2.&arabb+4.b4.>c8d8g2.c-4d4.c+de4.r8<f4r8g4r8a4g4r8a4r8b4>c4r8d4r8e4d2g2a1&a1
+`
