@@ -1,7 +1,39 @@
  # 風と駆ける
 マビノギモバイル 女神の庭BGM オーケストラ風アレンジ
 
-## Code
+## Ver 2
+part 1  
+```
+t70l8r4v12>ag4rg+4r1o3f+.&f+32g32g+.&g+32g+32a.&a32a+32b.&b32>c32c+4.c-c+f+g+ag+4.&g+32g+32a16e4<ar16>e32f32f+4.rc-c+ded4.rc+4.rd4.c+16c-16c+f+g+ba4g+4f+1r2r1r2>g+2r2>a+1&a+4r4t140o4f+2.&f+.r16f+2.&f+.r16f+2.&f+.r16g+.g+.g+
+```
+
+part 2  
+```
+l8r4.v10ar2r1r1r2<f+2r2e4.rd4.re4dea4.ra4g+rd4d4e4v12de16f+32>g+32>g+32a.&a32g+4f+1r4f+g+a4.ddef+g+a2.&a.&a32a32a+1&a+1<v12c+4.c+4.c+4c+4.c+4.e32f+32g+32a32b32>c+32d32e32f+4.f+4.f+.r16g+.g+.g+
+```
+
+part 3  
+```
+r2v10<a8r.r1r1<f+2f+2e2e2d2e2<aaa8a8a8a8>ddeeag+f+1.ddd8d8d8d8g+2g+2a+2a+1.<v12f+.f+.f+f+.f+.f+f+.f+.f+g+8.g+8.g+8
+```
+
+part 4  
+```
+r.rv10o2a8rr1r1>c+2c+2<b2b.r8a.r8b.r8eee8e8e8e8aabb>ed+c+1&c+rd2d8d8d8d8g+2g+2a+2a+1&a+r<v12f+.f+.f+f+.f+.f+f+.f+.f+g+8.g+8.g+8
+```
+
+part 5  
+```
+l4.r2.v10o1a2r2.r1o3f+1e2&er8dr8er8a2&ar8d2e2a4g+4f+1r2r1>g+1a+1.&a+4r4o2v12c+c+c+4c+c+c+4c+c+c+4d+8.d+8.d+8
+```
+
+part 6  
+```
+l4.r2rv10o1g1&g8r1o4c+1<b2&br8ar8br8e2&er8a2b2>e4d+4c+2.r2.r1r1>f1.&f4r4v12o3f+f+f+4f+f+f+4f+f+f+4g+8.g+8.g+8
+```
+  
+
+## Ver 1
 part 1  
 ```
 t70l8r4o2a4.b4.o4c+4.c-c+f+g+ag+4.&g+32g+32a16e4<a.>e32f32f+4.rc-c+ded4.rc+4.rd4.c+16c-16c+f+g+ba4g+4f+1r2r1r2>g+2r2>a+1.t140<f+2.&f+.r16f+2.&f+.r16f+2.&f+.r16g+.g+.g+r4<c+16c+16c+16c+16>c+2&c+f+g+ag+4.&g+32g+32a16e4<ar>f+4.c-4c+ded4.c+16c-16c+4.rd4.c+16c-16c+f+g+ba4g+32a32g+.f+4rg+a4.c+32d16.def+g+a4.g+16f+16g+g+g+ro2f+1e1d1<a1>d1a1g+1>c+1<f+.f+16f+f+f+.f+16f+f+e.e16eee.e16eed.d16dde.e16eea.a16aaa.a16aad.d16ddd.d16dde.e16eee.e16erf+.g+.ab.a.eg+4o5g+4a4b4>c+2.r<b16a16b2.g+ab2.&brb2a+16r16a+r4<dr4er4f+r4g+r4a4b4a4.g+16f+16g+4.rb4.a+16g+16a+2>c+2&c+f+g+ag+4.&g+32g+32a16e4<ar>f+4.c-4c+ded4.c+16c-16c+4.rd4.c+16c-16c+f+g+ba4g+32a32g+.f+4rg+a4.c+32d16.def+g+a4.g+16f+16g+g+r.c-16c+2&c+f+g+ag+4&g+16.r32g+16a16e4c-.e32f32f+4.<b16a+16b>c+ded4&d16.r32c+16c-16c+4.r16.c+32d4.c+16c-16c+f+g+ba4g+32a32g+.f+.r16f+g+a4.c+16d16def+g+a4.g+16f+16g+4r4o3d1e1c+1>f+4g+4>a4b4a4.d16c+16d.&dr16d16f+16g+4&g+16.r32g+16b16>c+4.ro4b2&br>f+g+a4.g+16f+16g+2<f+2.rf+16g+16ar4g+r4ab>e2r4<g+rb4.a+16b16>c+4r4d4re4rf+4e4rf+4rg+4a4rb4r>c+4c-2e2f+1.&f+1.&f+1r1f+
