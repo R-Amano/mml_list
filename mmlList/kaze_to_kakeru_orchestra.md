@@ -4,32 +4,32 @@
 ## Ver 2
 part 1  
 ```
-t70l8r4v12>ag4rg+4r1o3f+.&f+32g32g+.&g+32g+32a.&a32a+32b.&b32>c32c+4.c-c+f+g+ag+4.&g+32g+32a16e4<ar16>e32f32f+4.rc-c+ded4.rc+4.rd4.c+16c-16c+f+g+ba4g+4f+1r2r1r2>g+2r2>a+1&a+4r4t140o4f+2.&f+.r16f+2.&f+.r16f+2.&f+.r16g+.g+.g+
+t70l8r4v12>ag4rg+4r1r4o3a4.b4.>c+4.c-c+f+g+ag+4.&g+32g+32a16e4<ar16>e32f32f+4.rc-c+ded4.rc+4.rd4.c+16c-16c+f+g+ba4g+4f+1r2r1r2>g+2.r4>a+1&a+4r4t140o4f+2.&f+.r16f+2.&f+.r16f+2.&f+.r16g+.g+.g+r4<c+16c+16c+16c+16>c+2&c+f+g+ag+4.&g+32g+32a16e4<ar>f+4.c-4c+ded4.c+16c-16c+4.rd4.c+16c-16c+f+g+ba4g+32a32g+.f+rf+g+a4.c+32d16.def+g+a4.g+16f+16g+g+g+rv8c+2.<ab>c+2e4rc+16e16f+4.e16f+16<a4b4>d4.c+16c-16c+4.rv9c-4.c+16d16c-4.c+16e16f+4.f+16g+16a4f+rv10g+4.f+16.g32g+.a.b16.>c32c+.&c+r16<b16a16g+2o2f+1e2e2o5g+32a4&a.a32a+32b4&b.>c+32d+32e2.
 ```
 
 part 2  
 ```
-l8r4.v10ar2r1r1r2<f+2r2e4.rd4.re4dea4.ra4g+rd4d4e4v12de16f+32>g+32>g+32a.&a32g+4f+1r4f+g+a4.ddef+g+a2.&a.&a32a32a+1&a+1<v12c+4.c+4.c+4c+4.c+4.e32f+32g+32a32b32>c+32d32e32f+4.f+4.f+.r16g+.g+.g+
+l8r4.v12ar2r1r1r2f+2r2e4.rd4.r<e4dea4.ra4g+rd4d4e4de16f+32>g+32>g+32a.&a32g+4f+1r4f+g+a4.ddef+g+a2.&a.&a32a32a+1&a+1<c+4.c+4.c+4c+4.c+4.e32f+32g+32a32b32>c+32d32e32f+4.f+4.f+.r16g+.g+.g+r4o2b16b16b16b16r4>c+4.>f+>g+ag+4.&g+32g+32a16e4<ard4.<c-4c+ded4c-4c+4<a4>d4.c+16c-16c+>f+>g+ba4g+32a32g+.f+r<f+<g+a4.ddef+16r16>g+16r16>a16r16a16r16a16r16g+16f+16g+16r16g+16r16g+rr1r1r1r1r1r2o2v9a4>f+4v10g+4.f+g+.a.b>c+.&c+r16<b16a16g+4.>f+16g+16a2.rg+16f+16g+4>c+4<g+4c+.e16f+.&f+r16f+16g+16a4g+.b32>c32c+2&c+
 ```
 
 part 3  
 ```
-r2v10<a8r.r1r1<f+2f+2e2e2d2e2<aaa8a8a8a8>ddeeag+f+1.ddd8d8d8d8g+2g+2a+2a+1.<v12f+.f+.f+f+.f+.f+f+.f+.f+g+8.g+8.g+8
+l8r2v10<ar4.r1r1<f+2f+2e2e2d2e2<a4a4aaaa>d4d4e4e4a4g+4f+1.d4d4ddddg+2g+2a+2a+1.v12<f+4.f+4.f+4f+4.f+4.f+4f+4.f+4.f+4g+.g+.g+r4g+16g+16g+16g+16f+f+f+f+f+16f+16f+f+f+eeeee16e16eer>dddd<eeeeaan33aa16>a16<an33a>dddd<eeeeaag+g+f+f+f+f+>ddddd16d16ddd<g+g+g+g+g+g+g+rv8f+f+f+4f+f+f+4eee4eee4>ddd4ddd4<aaa4aaa4v9>ddd4ddd4<aaa4aaa4v10g+g+g+4g+g+g+4>c+c+c+4c+c+c+4<f+.f+16n30f+f+.f+16n30f+e.e16n28ee.e16n28e>d.d16n38d<e.e16n28ea.a16n33aa.a16n33a
 ```
 
 part 4  
 ```
-r.rv10o2a8rr1r1>c+2c+2<b2b.r8a.r8b.r8eee8e8e8e8aabb>ed+c+1&c+rd2d8d8d8d8g+2g+2a+2a+1&a+r<v12f+.f+.f+f+.f+.f+f+.f+.f+g+8.g+8.g+8
+l8r2rv10o2ar4r1r1>c+2c+2<b2b4.ra4.rb4.re4e4eeeea4a4b4b4>e4d+4c+1&c+4r4d2ddddg+2g+2a+2a+1&a+4r4v12<f+4.f+4.f+4f+4.f+4.f+4f+4.f+4.f+4g+.g+.g+r4g+16g+16g+16g+16c+c+c+c+c+16c+16c+c+c+<bbbbb16b16bbr>aaaa<bbbb>een40ee16>e16<en40eaaaa<bbbb>eed+d+c+c+c+c+aaaaa16a16aaad+d+d+d+d+d+d+rr1r1r1r1v9g+g+g+4g+g+g+4aaa4aaa4v10d+d+d+4d+d+d+4g+g+g+4g+g+g+4c+.c+16n37c+c+.c+16n37c+<b.b16n35bb.b16>bc-a.a16n45a<b.b16>bc-e.e16n40ee.e16n40e
 ```
 
 part 5  
 ```
-l4.r2.v10o1a2r2.r1o3f+1e2&er8dr8er8a2&ar8d2e2a4g+4f+1r2r1>g+1a+1.&a+4r4o2v12c+c+c+4c+c+c+4c+c+c+4d+8.d+8.d+8
+l2r.v10n21r.r1<f+1e.&e8r8d4.r8e4.r8<a4a&a8r8>dea4g+4f+1rr1>g+1a+1&a+.r4v12<c+4.c+4.c+4c+4.c+4.c+4c+4.c+4.c+4d+8.d+8.d+8r4<e16e16e16e16>f+4f+.ee4.r8deaa4.r8dea4g+4f+dd8.d8.d8g+g+8g+8g+8r8v8<f+1e1d1<a1v9>d1a1v10g+1>c+1f+1eedea1
 ```
 
 part 6  
 ```
-l4.r2rv10o1g1&g8r1o4c+1<b2&br8ar8br8e2&er8a2b2>e4d+4c+2.r2.r1r1>f1.&f4r4v12o3f+f+f+4f+f+f+4f+f+f+4g+8.g+8.g+8
+l8r2.rv10o1g1&gr1o4c+1<b2.&bra4.rb4.re4e2&era2b2>e4d+4c+2.r2.r1r1>f1.&f4r4v12o3f+2.&f+.r16f+2.&f+.r16f+2.&f+.r16g+.g+.g+r4<c+16c+16c+16c+16f+4f+2.e2e4.rd2e4dea2a4.rd2e4>def+4g+4a4b4<d2d.d.da16r16a16r16a16r16g+16f+16g+g+g+rr1r1r1r1r1r1v10>g+1>c+1c+1<b2b2a2b2>e1
 ```
   
 
